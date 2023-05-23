@@ -1,0 +1,14 @@
+HTML PAGE
+----------
+Home page: will have Date, box to take in input for work type, Month, Year paid or not paid option
+
+Login page: Will be prompted if he wants to add data but isnt signed in
+
+Create Account Page: will be prompted to make a new account if he doesn't have one 
+
+Calender page: This page will output the data in a calender type format like he uses 
+
+Password page: This password page is incase he forgot his password
+
+Admin Page: The page that will give me access to change anything 
+
